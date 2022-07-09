@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #EXTVLCOPT:http-user-agent="NZKFLD-IPTV"
 
-#By CookieGMVN & .andrew
+#By : CookieGMVN & .andrew
 #Email : tuyentrandinh00@gmail.com | nghuyhieu2810@mail.folody.xyz
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD
@@ -290,7 +290,7 @@ http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Quốc Tế",5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",88 Stereo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9jpjeIpglsAmOD6NDE7o1u64Ii3orHTnWA&usqp=CAU" group-title="Quốc Tế - Âm Nhạc",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Quốc Tế",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
@@ -298,7 +298,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JExsI09.png" group-title="Quốc Tế",ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AD Sports 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Ad_sport_6.png" group-title="Quốc Tế",AD Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1c6dcab5-c101-4b1d-8af3-d2f4d31ff511-small3x1_STIRR_Logo_0520_AFV_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Quốc Tế",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
