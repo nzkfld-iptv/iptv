@@ -1,4 +1,3 @@
-#EXTM3U tvg-url="https://hieudev10.vercel.app/stream/iptv/config.xml"
 #EXTM3U tvg-country="VI"
 #EXTM3U tvg-language="vi_VN"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
