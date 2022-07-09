@@ -210,11 +210,8 @@ https://sub2.neetball.net/live/neet.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="Quốc Tế",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Quốc Tế",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijn8vQInR3uZt4YCK1Vj_jNv0nDWfmyytZWG5jcujpVYsGaqS&s" group-title="Quốc Tế",三明新闻综合
-http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",上海这一刻魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",上虞1新闻综合
@@ -233,9 +230,6 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="qiaoxiangpingdao.png" group-title="Quốc Tế",侨乡频道
 http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",南京十八
-http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",Tokyo MX2
