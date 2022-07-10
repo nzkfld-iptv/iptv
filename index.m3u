@@ -153,7 +153,11 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="Quốc Tế",Asianet News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Assam_Talks.jpeg/revision/latest?cb=20191220111041" group-title="Quốc Tế",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Quốc Tế",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="Quốc Tế",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Quốc Tế - Âm Nhạc",7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
