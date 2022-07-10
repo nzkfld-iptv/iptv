@@ -41,15 +41,13 @@ http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/VTV8_HD-0.png/revision/latest?cb=20201228133900&path-prefix=vi" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD S2
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/640px-VTV9_HD.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD S2
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+http://s4live.tv1asia.com:21585/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD S3
 http://s4live.tv1asia.com:21585/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/vtv/images/1/12/VTV3_HD.png/revision/latest?cb=20201005090039&path-prefix=vi" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD S3
 http://s4live.tv1asia.com:21585/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD S3
 http://s4live.tv1asia.com:21585/vtv6/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/640px-VTV9_HD.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD S3
-http://s4live.tv1asia.com:21585/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC2
@@ -214,12 +212,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 023/31493.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0Bv3o1pPjBXnMAFVgyGBxHRmAbT6yD47GA&usqp=CAU" group-title="Quốc Tế",Global Punjab
 https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://4.bp.blogspot.com/-BEn50W8UqKw/VwVS0XENb5I/AAAAAAAAAH8/PPV2AvDU5MU5YhTYNKakx-zyt7mNadTTg/s1600/Watch%2BBein%2BSport%2B2%2BHD%2Blive%2Bchannel%2Bonline%2Bstreaming.png",Bein Sports 2 HD
-http://185.209.15.198:8080/live/osama2022/osama2023/31492.m3u8?token=UzJZRjhqc2dqd2N3NU1w
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0h2LO_qyg5Tf-H35i4oARAnjgfS5b-D04I4vVxEvNCGKiB3-yHfSDE_-KJhmiTmtFnufJFYY4RNAx6gT_dNQYKdRhJj2roPXUNXJ4_72q_shW7yfO5jZJC7tDDWiDEiWL7OYmHspZpMtTwNGBkSPQrHjo_GjNRSZMRlNCQKjkE8hqZbqghUNzOOdFA/w320-h289/%D9%8A%D9%84%D8%A7%20%D9%84%D8%A7%D9%8A%D9%81.jpg",Bein Premium 1 HD
-http://185.209.15.198:8080/live/osama2022/osama2023/31498.m3u8?token=Vm50djVscWVacWRXQVdk
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWI_FBOax2NdKIp4d0cjImBdLiVcbXOinukQ&usqp=CAU",Bein Premium 2 HD
-http://185.209.15.198:8080/live/osama2022/osama2023/31497.m3u8?token=dkVQb3JKTHpzQ3pwWmhS
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://image.xumo.com/v1/channels/channel/99991391/300x300.png?type=smartCast_channelTile",VEVO Pop 4K
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnWybpKD1HmWF3FNaNQUXJc7pldlXydgqZQ&usqp=CAU",KPOP HD
@@ -502,12 +494,6 @@ http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebsp2hd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://obj-sg.thewiki.kr/data/4542532b322e706e67.png",EBS 2 Plus HD
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="channelahd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="",Channel A
-http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế" tvg-id="france24eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",France 24
-http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s900-c-k-c0x00ffffff-no-rj",DW News
-http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Ariang
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS World
