@@ -310,7 +310,7 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал
 http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K 
+#EXTINF:-1 group-title="Quốc Tế - Nga" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K 
 http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Quốc Tế",Bayon TV
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
@@ -446,7 +446,7 @@ https://ntv2.mov3.co/hls/ntv.m3u8
 https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="foxs2" group-title="Quốc Tế - Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png ",Fox Sports 2
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="baby_first" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
