@@ -153,10 +153,6 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Hide 1 - Pornstar HD
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Hide 2 - MILF HD
-http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", FTV Midnight Haute HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HUSTLER_TV_HD.png/400px-HUSTLER_TV_HD.png",Hide 3 - Hustler HD
@@ -696,3 +692,75 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9RkTQAP_TQCL1caUd-QT3Hj8bqkCzVS7ZvCRq2q1LBgjnbdxtXX0AtDZ" group-title="18+", JASMIN.TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Anal HD
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Asian HD
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Big Ass HD
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Big Dick HD
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Big Tits HD
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Blonde 
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Blowjob HD
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Brunette HD
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Compilation HD
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Cuckold HD
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Fetish HD
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Gangbang HD
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Gay HD
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Hardcore HD
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Interracial HD
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",AdultIPTV.net Latina HD
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="" group-title="XXX",Adult Lesbian HD
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Live Cams HD
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult MILF HD
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",AdultIPTV.net Pornstar HD
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult POV HD
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Rough HD
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Russian HD
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Teen HD
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Threesome HD
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="" group-title="18+",Adult Woman HD
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="18+",Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="18+",Filmon Erotic Sensations 
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="18+",Filmon Fetish Factory HD
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="18+",Jasmin TV HD
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="18+",Miami TV Jenny Live HD
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="18+",Miami TV México HD
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1924674763_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="18+",Rouge TV HD
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="18+",Visit-X TV (720p)
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
