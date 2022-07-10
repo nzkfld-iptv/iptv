@@ -153,6 +153,16 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg" group-title=Quốc Tế",E24
+http://14.199.164.20:4001/play/a0pc/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Quốc Tế",Enterr10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVeZnKfrksKltvtHvC2P_gZd-KRzOmR55s4A&usqp=CAU" group-title="Quốc Tế",FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQl2njlk_ueJxmlKtITEa6mi9xov-zHuSySN1Oo=s900-c-k-c0x00ffffff-no-rj" group-title="Quốc Tế",Fakt Marathi 
+http://14.199.164.20:4001/play/a0q8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcDzn5xXB0cBzI9a10SBkhsbhIWvTWzWksg5B1vV9KGDP-cQ4&s",Food Food
+http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/MH-One-Music-Logo.png" group-title="Quốc Tế - Âm Nhạc",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/MH-One-News-Logo.jpg" group-title="Quốc Tế",MH1 News
