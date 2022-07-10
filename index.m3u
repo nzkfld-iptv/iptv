@@ -185,7 +185,10 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU",Bein Premium 1 HD
+023/31493.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://4.bp.blogspot.com/-BEn50W8UqKw/VwVS0XENb5I/AAAAAAAAAH8/PPV2AvDU5MU5YhTYNKakx-zyt7mNadTTg/s1600/Watch%2BBein%2BSport%2B2%2BHD%2Blive%2Bchannel%2Bonline%2Bstreaming.png",Bein Sports 2 HD
+http://red.ipfox.org:8080/live/osama2022/osama2023/31492.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0h2LO_qyg5Tf-H35i4oARAnjgfS5b-D04I4vVxEvNCGKiB3-yHfSDE_-KJhmiTmtFnufJFYY4RNAx6gT_dNQYKdRhJj2roPXUNXJ4_72q_shW7yfO5jZJC7tDDWiDEiWL7OYmHspZpMtTwNGBkSPQrHjo_GjNRSZMRlNCQKjkE8hqZbqghUNzOOdFA/w320-h289/%D9%8A%D9%84%D8%A7%20%D9%84%D8%A7%D9%8A%D9%81.jpg",Bein Premium 1 HD
 http://185.209.15.198:8080/live/osama2022/osama2023/31498.m3u8?token=Vm50djVscWVacWRXQVdk
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWI_FBOax2NdKIp4d0cjImBdLiVcbXOinukQ&usqp=CAU",Bein Premium 2 HD
 http://185.209.15.198:8080/live/osama2022/osama2023/31497.m3u8?token=dkVQb3JKTHpzQ3pwWmhS
