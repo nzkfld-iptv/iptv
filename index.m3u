@@ -153,6 +153,8 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Quốc Tế - Âm Nhạc",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="itday" group-title="Quốc Tế" tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2019/07/indiatoday-logo.jpg",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="rai3hd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rai_3_HD_Logo.svg/1200px-Rai_3_HD_Logo.svg.png",Rai3
