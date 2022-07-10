@@ -210,7 +210,9 @@ http://210.210.155.35/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT-X
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/G5yHgwD9q9dY9yxOAuQuRo-WUo423_dMHLHxj-86BTbJr3tz7emcUlSTqVNqse4TXg" group-title="Quốc Tế",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="Quốc Tế",Asianet News Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Quốc Tế",NHK World Japan HD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="Quốc Tế",CGTN
