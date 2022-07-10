@@ -366,6 +366,8 @@ http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Quốc Tế",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Quốc Tế",CanBangla TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Quốc Tế",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Assam Talks
