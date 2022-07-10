@@ -173,10 +173,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1 tvg-id="ktvhq" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rnd6kk3hqckvormc32uu",KoreaTV HD
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="hbop" group-title="Quốc Tế - HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO+
-https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-id="hbos" group-title="Quốc Tế - HBO" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Singature
-https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/PZ2G44f6IKywC87B-I3wZR9PKxp2QTzH-1BX7ub0LrLHzeoV806RuWKhFydh7j900lY",Euro News
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="Quốc Tế - Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",Fox HD
