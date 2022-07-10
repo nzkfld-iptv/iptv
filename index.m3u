@@ -270,9 +270,9 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8A
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="Quốc Tế",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="espnhd" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512",ESPN HD
+#EXTINF:-1 tvg-id="espnhd" group-title="Quốc Tế - ESPN" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512",ESPN HD
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn2hd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN2 HD
+#EXTINF:-1 tvg-id="espn2hd" group-title="Quốc Tế - ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN2 HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-id="rbhd" group-title="Quốc Tế" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
