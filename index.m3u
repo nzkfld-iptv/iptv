@@ -183,6 +183,14 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="Quốc Tế - Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="",Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAfMgq14nDO8SypP7tNUXosUcmB88RUUHeA&usqp=CAU",Bein Premium 1 HD
+http://185.209.15.198:8080/live/osama2022/osama2023/31498.m3u8?token=Vm50djVscWVacWRXQVdk
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWI_FBOax2NdKIp4d0cjImBdLiVcbXOinukQ&usqp=CAU",Bein Premium 2 HD
+http://185.209.15.198:8080/live/osama2022/osama2023/31497.m3u8?token=dkVQb3JKTHpzQ3pwWmhS
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - BeIn" tvg-logo="https://sports-live.online/wp-content/uploads/2022/04/bein-sport-Premium-3.jpg",Bein Premium 3 HD
+http://red.ipfox.org:8080/live/osama2022/osama2023/31496.m3u8
 #EXTINF:-1 tvg-id="bflixmv" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Bflix-Movies-Logo.jpg",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="outside" group-title="Quốc Tế" tvg-logo="https://mms.businesswire.com/media/20210916005241/en/906819/22/Outside_digital_TM_logo_2021.jpg",Outside HD
