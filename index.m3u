@@ -153,9 +153,13 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Hide 1 - Pornstar HD
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Hide 2 - MILF HD
+http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", FTV Midnight Haute HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HUSTLER_TV_HD.png/400px-HUSTLER_TV_HD.png",Hustler HD
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HUSTLER_TV_HD.png/400px-HUSTLER_TV_HD.png",Hide 3 - Hustler HD
 http://193.33.240.8:80/hustler_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Quốc Tế",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
