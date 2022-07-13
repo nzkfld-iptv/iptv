@@ -230,6 +230,8 @@ https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 023/31493.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/AsLYbdw.png" group-title="Quốc Tế", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0Bv3o1pPjBXnMAFVgyGBxHRmAbT6yD47GA&usqp=CAU" group-title="Quốc Tế",Global Punjab
 https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://image.xumo.com/v1/channels/channel/99991391/300x300.png?type=smartCast_channelTile",VEVO Pop 4K
