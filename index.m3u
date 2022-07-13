@@ -151,6 +151,39 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-name="Star Plus(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Plus (BDIX)
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Plus UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Plus UK (BDIX)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Bharat(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Bharat (BDIX)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-name="Colors(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Quốc Tế - Phim Tổng Hợp",Colors (BDIX)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 tvg-name="Colors UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Quốc Tế - Phim Tổng Hợp",Colors UK (BDIX)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
+#EXTINF:-1 tvg-name="Zee TV(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee TV (BDIX)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 tvg-name="Zee TV UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee TV UK (BDIX)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 tvg-name="SAHARA ONE (BDIX)" tvg-logo="" group-title="Quốc Tế",SAHARA ONE (BDIX)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee Cinema HD (BDIX)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Action HD(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Action HD (BDIX)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Classic(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Classic (BDIX)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Anmol Cinema(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Anmol Cinema(BDIX)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Gold(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold (BDIX)
+http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Gold UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold UK (BDIX)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Gold 2(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold 2 (BDIX)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png" group-title="Quốc Tế - Phim Tổng Hợp",Sony Max 2 (BDIX)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Quốc Tế - Âm Nhạc", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Quốc Tế - Âm Nhạc", Music Mastii
