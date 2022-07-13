@@ -151,6 +151,8 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iz9TjmS.png" group-title="Quốc Tế", Zee Yupptv
+https://yuppcatchup.akamaized.net/preview/zeebangla/1800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Quốc Tế - Phim Tổng Hợp", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Quốc Tế", Colors Bangla HD
