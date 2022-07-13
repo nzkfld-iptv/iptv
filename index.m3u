@@ -151,6 +151,8 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg?by=hieudev10" group-title="Quốc Tế",Star Movies HD
+http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iz9TjmS.png" group-title="Quốc Tế", Zee Yupptv
 https://yuppcatchup.akamaized.net/preview/zeebangla/1800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Quốc Tế - Phim Tổng Hợp", Sony Aath
