@@ -151,7 +151,9 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Quốc Té", Music Mastii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Quốc Tế - Âm Nhạc", Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Quốc Tế - Âm Nhạc", Music Mastii
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEhhYpe.png" group-title="Quốc Tế - Âm Nhạc", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -165,9 +167,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Quốc Tế - Phim Tổng Hợp", Star Gold HD 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Quốc Tế - Phim ", Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Quốc Tế - Phim Tổng Hợp", Star Gold HD
 http://103.55.144.46/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Quốc Tế - Phim Tổng Hợp", Star Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Quốc Tế", RTV HD
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
