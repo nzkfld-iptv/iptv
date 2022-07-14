@@ -151,6 +151,8 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sonybbcearth" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sony_BBC_Earth.svg/revision/latest?cb=20211021125705" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Sony BBC Earth
+https://tvstream.fun/jtv/automax_tv.php?c=Sony_BBC_Earth_Hindi&amp;e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Quốc Tế", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png" tvg-name" TRANS TV" group-title="Quốc Tế", Trans 7
