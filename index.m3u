@@ -153,7 +153,7 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPWENTEvPdwc/v0/-1x-1.png" group-title="Quốc Tế",Bloomberg Quicktake HD
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="Quốc Tế - Hàn Quốc",YTN Science
+#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Plus(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Plus (BDIX)
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
