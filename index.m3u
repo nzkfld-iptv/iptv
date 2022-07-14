@@ -485,7 +485,7 @@ http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior 
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Quốc Tế - Thiếu Nhi",Sony Yay!
-https://streaming.setindia.com/MP4_4_34_04092021122214.m3u8
+https://tvstream.fun/jtv/automax_tv.php?c=Sony_Yay_Hindi&amp;e=.m3u8
 #EXTINF:-1 tvg-id="spohd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxJJeghunEO2o9cOdGJuETXP_UN1VgHgWTQ&usqp=CAU",SPO TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="ebskhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcMtUe9LYosEd34B8SgaPUFqKFihp0fuYNA&usqp=CAU",EBS Kids
