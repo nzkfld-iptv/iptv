@@ -151,6 +151,14 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Quốc Tế", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png" tvg-name" TRANS TV" group-title="Quốc Tế", Trans 7
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png" tvg-name" TRANS TV" group-title="Quốc Tế", Trans TV
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/3xYRCsdp/SCTV.png" group-title="Quốc Tế", Indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPWENTEvPdwc/v0/-1x-1.png" group-title="Quốc Tế",Bloomberg Quicktake HD
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",YTN Science
