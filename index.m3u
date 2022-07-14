@@ -281,6 +281,8 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="Quốc Tế - Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://play-lh.googleusercontent.com/1FQH4bMnswzWJXuzSRusCextJXBPN4Ig48TCV8Bl2nITNGiTTfFVSHEUyxxlWyC9FUU" group-title="Quốc Tế - Fox",Fox 26 HD
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 023/31493.m3u8
