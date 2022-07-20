@@ -251,9 +251,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HUSTLER_TV_HD.png/400px-HUSTLER_TV_HD.png",Hide 3 - Hustler HD
 http://193.33.240.8:80/hustler_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MaNNHCm.png" group-title="Quốc Tế - Âm Nhạc", MTV Beats HD+
+#EXTINF:-1 tvg-id="mtvbeat+" tvg-logo="https://i.imgur.com/MaNNHCm.png" group-title="Quốc Tế - Âm Nhạc", MTV Beats HD+
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGNdnMT.png" group-title="Quốc Tế - Âm Nhạc", MTV Indian
+#EXTINF:-1 tvg-id="mtvid" tvg-logo="https://i.imgur.com/sGNdnMT.png" group-title="Quốc Tế - Âm Nhạc", MTV Indian
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="Quốc Tế",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
@@ -526,17 +526,17 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Animax HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8,Animax Indonesia
+#EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8 ,Animax Indonesia
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/YO%21_MTV_2021.svg/revision/latest?cb=20220112031634",MTV Yo!
+#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/YO%21_MTV_2021.svg/revision/latest?cb=20220112031634" ,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/07/image002-1.jpg",MTV Biggest Pop
+#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/07/image002-1.jpg" ,MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/MTV_BLOCK_PARTY_2021.svg/revision/latest?cb=20220112031925",MTV Block Party
+#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/MTV_BLOCK_PARTY_2021.svg/revision/latest?cb=20220112031925" ,MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/07/image003.jpg",MTV Spankin' New
+#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/07/image003.jpg" ,MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="http://cdn26.us1.fansshare.com/photo/mtv/mtv-video-music-awards-logo-music-1536914292.jpg",MTV WMA
+#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="http://cdn26.us1.fansshare.com/photo/mtv/mtv-video-music-awards-logo-music-1536914292.jpg" ,MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 tvg-id="mtvru" group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/2155px-MTV_Live_2021_logo.svg.png",MTV Russian
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
