@@ -503,7 +503,7 @@ http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ft" group-title="Quốc Tế" tvg-logo="https://cdn.shopify.com/s/files/1/2435/6313/products/Fish-Tank-TV-GreyWhite-15-Litres-4_f38ea410-9d0f-42f4-bd6e-c13beab5fbc4_1400x.jpg?v=1628960088",FishTank HD
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế - HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+https://hieudev10.vercel.app/tv/hbo.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner HD
@@ -515,7 +515,7 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Animax HD
-https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+https://hieudev10.vercel.app/tv/animaxhd.m3u8
 #EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8 ,Animax Indonesia
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Quốc Tế - Âm Nhạc", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/YO%21_MTV_2021.svg/revision/latest?cb=20220112031634" tvg-id="",MTV Yo!
