@@ -161,14 +161,6 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/710.png" group-title="Quốc Tế" tvg-chno="",Outdoor Channel HD
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sonypal" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal
-https://tvstream.fun/jtv/automax_tv.php?c=Sony_Pal_Hindi&amp;e=.m3u8
-#EXTINF:-1 tvg-id="sonymax" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",Sony Max
-https://tvstream.fun/jtv/automax_tv.php?c=Sony_Max_Hindi&amp;e=.m3u8
-#EXTINF:-1 tvg-id="sonymax" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/1200px-Sony_SAB.svg.png",Sony Sab
-https://tvstream.fun/jtv/automax_tv.php?c=Sony_Sab_Hindi&amp;e=.m3u8
-#EXTINF:-1 tvg-id="sonybbcearth" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sony_BBC_Earth.svg/revision/latest?cb=20211021125705" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Sony BBC Earth
-https://tvstream.fun/jtv/automax_tv.php?c=Sony_BBC_Earth_Hindi&amp;e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Quốc Tế", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png" tvg-name" TRANS TV" group-title="Quốc Tế", Trans 7
@@ -502,10 +494,6 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior 
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Quốc Tế - Thiếu Nhi",Sony Yay!
-https://tvstream.fun/jtv/automax_tv.php?c=Sony_Yay_Hindi&amp;e=.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg" group-title="Quốc Tế - Phim Tổng Hợp",Sony Max HD
-https://tvstream.fun/jtv/automax_tv.php?c=Sony_Max_HD_Hindi&amp;e=.m3u8
 #EXTINF:-1 tvg-id="spohd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxJJeghunEO2o9cOdGJuETXP_UN1VgHgWTQ&usqp=CAU",SPO TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="ebskhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcMtUe9LYosEd34B8SgaPUFqKFihp0fuYNA&usqp=CAU",EBS Kids
