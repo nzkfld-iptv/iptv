@@ -324,6 +324,8 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 http://freelive.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fxcrhd" group-title="Quốc Tế - Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMT6mNTRU7EjC121KGAi3ViVIS8yxZffnGr-e6lDfKze5LrB1&s ",Fox Crime
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-id="vlchaha" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://images.videolan.org/images/icons-VLC/vlc.mini.svg",VLC HD
+
 #EXTINF:-1 tvg-id="smhd" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hdbm" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAwrg9Aga2oMvgzFLBBgwDBCZEBiF099zxg&usqp=CAU ",Hits Movies HD
