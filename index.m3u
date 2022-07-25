@@ -749,3 +749,15 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f17443e-96eb-4321-a245-6ccdbb139966/deagd7k-30bd027f-c318-410b-bc3f-99c5f55fb26e.png/v1/fill/w_512,h_512,strp/shaolin_soccer__2001__by_vahidkave_deagd7k-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMmYxNzQ0M2UtOTZlYi00MzIxLWEyNDUtNmNjZGJiMTM5OTY2XC9kZWFnZDdrLTMwYmQwMjdmLWMzMTgtNDEwYi1iYzNmLTk5YzVmNTVmYjI2ZS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BP5hmP_LhsWa60mk55-MuZCg45qPfaxhi_fpQpDCKio",Đội Bóng Thiếu Lâm (2001)
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i.ytimg.com/vi/is7ceCQT2JI/maxresdefault.jpg",Đỗ Thánh 1 (1990)  
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b4628000.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://image.tmdb.org/t/p/w300/MQRwB224lAgh9ZyMRk6wyrgRaZ.jpg",Đỗ Thánh 2 (1990) 
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b2828000.m3u8
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="http://3.bp.blogspot.com/-HBQw-D9cVzQ/VHOVcJVYSyI/AAAAAAAAAMw/oueJv2PUcPY/w1200-h630-p-k-no-nu/than-bai-1.jpg",Thần Bài 1 (1989) 
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/static/images/god-of-gamblers-2-poster-new_banner_landscape_21x9_2048x878_3x.jpg",Thần Bài 2 (1990)  
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/images/w400/title/god-of-gamblers-part-3--back-to-shanghai_web_posterLandscape_27a7f2dd49210b8ff40d1624fe8c3efc.jpg",Thần Bài 3 (1996)
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
