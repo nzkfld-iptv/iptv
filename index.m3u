@@ -761,3 +761,13 @@ https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/285474621
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/images/w400/title/god-of-gamblers-part-3--back-to-shanghai_web_posterLandscape_27a7f2dd49210b8ff40d1624fe8c3efc.jpg",Thần Bài 3 (1996)
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://cdnmedia.webthethao.vn/thumb/720-405/uploads/img/files/images/fullsize/2019/11/22/vua-pha-hoai-va-nhung-bai-hoc-chien-thuat-danh-vo-dai-tu-chau-tinh-tri.jpg",Vua Phá Hoại (1994)
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/loveondelivery-1994-hongkong-tm/LoveOnDelivery_1994_HongKong_TM_vip.smil/chunklist_b996000_sleng.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://flixwatch.co/wp-content/uploads/81038416.jpg",Bách Biến Tinh Quân (1995) 
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/60milionsdollarMan/60MillionsDollarMan_1995_HongKong.mp4/chunklist.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://www.flixwatch.co/wp-content/uploads/81038418.jpg.webp",Vận May Mỉm Cười (1990)  
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortunesmiles/When_Fortune_Smiles_1990.mp4/chunklist.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://3.bp.blogspot.com/-yIbTlwHwDwI/XR7__qxkgjI/AAAAAAAAW0E/579ob-q3OvoLSIaGDb_hwI-yUA7_oA7fQCLcBGAs/s1600/Chuyen-Gia-Bat-Ma-1995-1.jpg?imgmax=0",Chuyên Gia Bắt Ma (1995) 
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://image.cdnclouds.org/400x225,sc/https://media.cdnclouds.org/img-redirect/movies/1990/anh_hung_cua_toi_my_hero_1990.jpg",Anh Hùng Của Tôi (1990)  
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
