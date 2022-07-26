@@ -774,3 +774,22 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortun
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8 
 #EXTINF:-1 group-title="Kho VOD" tvg-logo="https://image.cdnclouds.org/400x225,sc/https://media.cdnclouds.org/img-redirect/movies/1990/anh_hung_cua_toi_my_hero_1990.jpg",Anh Hùng Của Tôi (1990)  
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i.ytimg.com/vi/oTnYDLDg2pE/mqdefault.jpg",Tân Tinh Võ Môn 2 (1992) 
+
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i.postimg.cc/TYpJcN0S/mad-monk-poster.jpg",Tế Công (1993) 
+ https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/static/tricky-brains-poster-tag-tm_banner_landscape_21x9_2048x878_3x.jpg",Chuyên Gia Xảo Quyệt (1991)  
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickybrain/Tricky_Brains_1991.mp4/chunklist.m3u8 
+#https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210304/tricky-brains-1991-hongkong-uslt-v2/c57c82bb237c5d388b4057928c07489d.smil/chunklist_b2828000.m3u8
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/static/images/king-of-beggars-poster_banner_landscape_21x9_2048x878_3x.jpg",Trạng Nguyên Tô Khất Nhi (1992)  
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/KingOfBeggars_1992_HongKong.mp4/chunklist.m3u8 
+#https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b1998000.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i0.wp.com/diendannguoiviet.com/wp-content/uploads/2021/10/Truong-Hoc-Uy-Long-1-Phim-Le-Hay-Nhat.jpg?fit=480%2C360&ssl=1",Trường Học Uy Long 1 (1991)
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_1_1991.mp4/chunklist.m3u8 
+#https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/df7058800224db0c6818cc0dd292a7e5.smil/chunklist_b1998000.m3u8 
+#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO5CZmQxuNjW30UfPfs_2fR2ZJ_fvTabBYQ&usqp=CAU",Trường Học Uy Long 2 (1992)  
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_2_1992.mp4/chunklist.m3u8 
+#https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_2_1991_hongkong_v3/0e081a274f7af33b3dd34051acaa18d8.smil/chunklist_b2828000.m3u8
