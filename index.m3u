@@ -343,6 +343,8 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8V57mn0Y4U2Of-VglKMtwCLxSWpEfZlUCQ&s" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",KBS1 HD
+https://1tvhd.gscdn.kbs.co.kr/1tv-01/1tv-01_hd.m3u8?Expires=1659161771&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAxLzF0di0wMV9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjU5MTYxNzcxfX19XX0_&Signature=O62MIOeJIkBvfdtyG595-pzumaGzbFdDvhf1ViKc1mdqmAq4yyoEr8NLrUUNRHZ0AcKUmGr3h4wbEON~qbf1c0q-TlV~L8q0be3CtdTq8sd-3m1Lpb876cRg8sbdyQs9BTZgl-aLxZ1HqdcyqgDK5kJX1ATd-OxLC5pCkv4NMKCfC0Nr0YW7l-5~l1nbHs5Jto6f15zpBYRmFDmtrYAA1mPtHcFX8huvOq0i1y9bLLCqXZ3xwIo0uFV-Q1KkKpADwVpTjN1X6jbCx3HMfoIgxLqO4IAmPDDKOc1L9Frzhe3hhZyICxwrYGCQ-ilUMxLNQKGdDfJhIehLitUAkOz9Rg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",NBS Korea HD
