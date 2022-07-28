@@ -762,5 +762,7 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="kcine" group-title="K+ (thử nghiệm)" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1200?cb=20220127020318&path-prefix=vi",K+ Cine HD
+#EXTINF:-1 tvg-id="kcine" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1200?cb=20220127020318&path-prefix=vi",K+ Cine HD
 http://live.television4you.xyz:8080/kcine
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi",K+ Sport 1 HD
+http://live.television4you.xyz:8080/ksport1
