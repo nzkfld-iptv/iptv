@@ -503,8 +503,14 @@ http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="spohd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxJJeghunEO2o9cOdGJuETXP_UN1VgHgWTQ&usqp=CAU",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-id="spohd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRfV-N0YyLbHgrVZmLtcHoIRgABTgsYc5PKg&usqp=CAU ",SPOTV 2
-
+#EXTINF:-1 tvg-id="spo2hd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRfV-N0YyLbHgrVZmLtcHoIRgABTgsYc5PKg&usqp=CAU ",SPOTV 2
+http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/SQzrrkX/KBSN-Drama-BEARTV.png", KBS Drama
+http://140.238.6.140:8881/stream/channel/800be1ea4133bb52bd4194348f90492c
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/vmKWdmG/KBSN-Joy-BEARTV.png", KBS Joy
+http://140.238.6.140:8881/stream/channel/aa36691f41e62b915c013542740d6df9
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/ftKYBr2/KBSN-Story-BEARTV.png", KBS Story
+http://140.238.6.140:8881/stream/channel/4b6668e35a1425f4c95167f90c1a0323
 #EXTINF:-1 tvg-id="ebskhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcMtUe9LYosEd34B8SgaPUFqKFihp0fuYNA&usqp=CAU",EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebsehd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://rlgvcnjx4.toastcdn.net/images/h1.svg",EBS English
@@ -756,44 +762,3 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f17443e-96eb-4321-a245-6ccdbb139966/deagd7k-30bd027f-c318-410b-bc3f-99c5f55fb26e.png/v1/fill/w_512,h_512,strp/shaolin_soccer__2001__by_vahidkave_deagd7k-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMmYxNzQ0M2UtOTZlYi00MzIxLWEyNDUtNmNjZGJiMTM5OTY2XC9kZWFnZDdrLTMwYmQwMjdmLWMzMTgtNDEwYi1iYzNmLTk5YzVmNTVmYjI2ZS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BP5hmP_LhsWa60mk55-MuZCg45qPfaxhi_fpQpDCKio",Đội Bóng Thiếu Lâm (2001)
-https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i.ytimg.com/vi/is7ceCQT2JI/maxresdefault.jpg",Đỗ Thánh 1 (1990)  
-https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b4628000.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://image.tmdb.org/t/p/w300/MQRwB224lAgh9ZyMRk6wyrgRaZ.jpg",Đỗ Thánh 2 (1990) 
-https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b2828000.m3u8
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="http://3.bp.blogspot.com/-HBQw-D9cVzQ/VHOVcJVYSyI/AAAAAAAAAMw/oueJv2PUcPY/w1200-h630-p-k-no-nu/than-bai-1.jpg",Thần Bài 1 (1989) 
-https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/static/images/god-of-gamblers-2-poster-new_banner_landscape_21x9_2048x878_3x.jpg",Thần Bài 2 (1990)  
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/images/w400/title/god-of-gamblers-part-3--back-to-shanghai_web_posterLandscape_27a7f2dd49210b8ff40d1624fe8c3efc.jpg",Thần Bài 3 (1996)
-https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://cdnmedia.webthethao.vn/thumb/720-405/uploads/img/files/images/fullsize/2019/11/22/vua-pha-hoai-va-nhung-bai-hoc-chien-thuat-danh-vo-dai-tu-chau-tinh-tri.jpg",Vua Phá Hoại (1994)
-https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/loveondelivery-1994-hongkong-tm/LoveOnDelivery_1994_HongKong_TM_vip.smil/chunklist_b996000_sleng.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://flixwatch.co/wp-content/uploads/81038416.jpg",Bách Biến Tinh Quân (1995) 
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/60milionsdollarMan/60MillionsDollarMan_1995_HongKong.mp4/chunklist.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://www.flixwatch.co/wp-content/uploads/81038418.jpg.webp",Vận May Mỉm Cười (1990)  
-https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortunesmiles/When_Fortune_Smiles_1990.mp4/chunklist.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://3.bp.blogspot.com/-yIbTlwHwDwI/XR7__qxkgjI/AAAAAAAAW0E/579ob-q3OvoLSIaGDb_hwI-yUA7_oA7fQCLcBGAs/s1600/Chuyen-Gia-Bat-Ma-1995-1.jpg?imgmax=0",Chuyên Gia Bắt Ma (1995) 
-https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://image.cdnclouds.org/400x225,sc/https://media.cdnclouds.org/img-redirect/movies/1990/anh_hung_cua_toi_my_hero_1990.jpg",Anh Hùng Của Tôi (1990)  
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i.ytimg.com/vi/oTnYDLDg2pE/mqdefault.jpg",Tân Tinh Võ Môn 2 (1992) 
-
-https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i.postimg.cc/TYpJcN0S/mad-monk-poster.jpg",Tế Công (1993) 
- https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/static/tricky-brains-poster-tag-tm_banner_landscape_21x9_2048x878_3x.jpg",Chuyên Gia Xảo Quyệt (1991)  
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickybrain/Tricky_Brains_1991.mp4/chunklist.m3u8 
-#https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210304/tricky-brains-1991-hongkong-uslt-v2/c57c82bb237c5d388b4057928c07489d.smil/chunklist_b2828000.m3u8
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://assets.glxplay.io/static/images/king-of-beggars-poster_banner_landscape_21x9_2048x878_3x.jpg",Trạng Nguyên Tô Khất Nhi (1992)  
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/KingOfBeggars_1992_HongKong.mp4/chunklist.m3u8 
-#https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b1998000.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://i0.wp.com/diendannguoiviet.com/wp-content/uploads/2021/10/Truong-Hoc-Uy-Long-1-Phim-Le-Hay-Nhat.jpg?fit=480%2C360&ssl=1",Trường Học Uy Long 1 (1991)
-https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_1_1991.mp4/chunklist.m3u8 
-#https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/df7058800224db0c6818cc0dd292a7e5.smil/chunklist_b1998000.m3u8 
-#EXTINF:-1 group-title="Kho VOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO5CZmQxuNjW30UfPfs_2fR2ZJ_fvTabBYQ&usqp=CAU",Trường Học Uy Long 2 (1992)  
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_2_1992.mp4/chunklist.m3u8 
-#https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_2_1991_hongkong_v3/0e081a274f7af33b3dd34051acaa18d8.smil/chunklist_b2828000.m3u8
