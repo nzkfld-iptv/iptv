@@ -766,3 +766,5 @@ https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 http://live.television4you.xyz:8080/kcine
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi",K+ Sport 1 HD
 http://live.television4you.xyz:8080/ksport1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/200?cb=20220127020328&path-prefix=vi",K+ Sport 2 HD
+http://live.television4you.xyz:8080/ksport2
