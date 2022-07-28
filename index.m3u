@@ -87,14 +87,14 @@ https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 http://s4live.tv1asia.com:21585/vtc7/index.m3u8
 #EXTINF:-1 tvg-id="vtc134k" group-title="VTC (Luồng 2)" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13 4K S2
 https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC (Luồng 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD S2
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC (Luồng 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14 HD 
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC (Luồng 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD S3
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC (Luồng 3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1 HD
 http://s4live.tv1asia.com:21585/vtc1/index.m3u8
 
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",Thông Tấn Xã Việt Nam HD
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu (Luồng 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",Thông Tấn Xã Việt Nam HD S2
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu (Luồng 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",Thông Tấn Xã Việt Nam HD 
 https://16371213858134.vnns.net/ttxvn_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANTV HD
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -160,6 +160,8 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest/scale-to-width-down/200?cb=20210131020959&path-prefix=vi" group-title="HTVC",HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Quốc Tế - Thể Thao,Euro Sport 1 HD
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 group-title="Quốc Tế - Thể Thao" tvg-logo="https://i.ibb.co/F768qJN/star-sports-select-hd-2-BEARTV.png" ,Star Sports Select 2 HD
 https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Quốc Tế - Thể Thao", Fight Sports 
@@ -242,16 +244,14 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=800&e=.m3u8
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Quốc Tế - Sony", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Dubai Sports",DUBAI SPORTS 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Thể Thao",Dubai Sports 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Quốc Tế - Dubai Sports",DUBAI SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Quốc Tế - Thể Thao",Dubai Sports 2 HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Dubai Sports",DUBAI SPORTS 3 HD
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Thể Thao",Dubai Sports 3 HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg", FTV Midnight Haute HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HUSTLER_TV_HD.png/400px-HUSTLER_TV_HD.png",Hide 3 - Hustler HD
-http://193.33.240.8:80/hustler_hd/index.m3u8
 #EXTINF:-1 tvg-id="mtvbeat+" tvg-logo="https://i.imgur.com/MaNNHCm.png" group-title="Quốc Tế - Âm Nhạc", MTV Beats HD+
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mtvid" tvg-logo="https://i.imgur.com/sGNdnMT.png" group-title="Quốc Tế - Âm Nhạc", MTV Indian
@@ -333,8 +333,6 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 http://freelive.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fxcrhd" group-title="Quốc Tế - Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMT6mNTRU7EjC121KGAi3ViVIS8yxZffnGr-e6lDfKze5LrB1&s ",Fox Crime
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-id="vlchaha" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://images.videolan.org/images/icons-VLC/vlc.mini.svg",VLC HD
-http://193.33.240.8/hustler_hd/index.m3u8?by=cocoa
 #EXTINF:-1 tvg-id="smhd" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hdbm" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAwrg9Aga2oMvgzFLBBgwDBCZEBiF099zxg&usqp=CAU ",Hits Movies HD
