@@ -125,6 +125,14 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg" tvg-chno="40" group-title="SCTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,Film 360
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="kcine" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1200?cb=20220127020318&path-prefix=vi",K+ Cine HD
+http://live.television4you.xyz:8080/kcine
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi",K+ Sport 1 HD
+http://live.television4you.xyz:8080/ksport1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/200?cb=20220127020328&path-prefix=vi",K+ Sport 2 HD
+http://live.television4you.xyz:8080/ksport2
+#EXTINF:-1 tvg-id="klife" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/K%2B_Life_HD_2021.png/revision/latest/scale-to-width-down/200?cb=20220127022229&path-prefix=vi ",K+ Life
+http://live.television4you.xyz:8080/klife
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htjpgpng",HTV1
@@ -762,9 +770,3 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" group-title="Địa Phương",Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="kcine" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1200?cb=20220127020318&path-prefix=vi",K+ Cine HD
-http://live.television4you.xyz:8080/kcine
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi",K+ Sport 1 HD
-http://live.television4you.xyz:8080/ksport1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/200?cb=20220127020328&path-prefix=vi",K+ Sport 2 HD
-http://live.television4you.xyz:8080/ksport2
