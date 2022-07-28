@@ -1,6 +1,6 @@
 #EXTM3U tvg-country="VI" tvg-language="Tiếng Việt"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0.22000.829 ; Win64 ; x64)"
-#EXTVLCOPT:http-user-agent="NZKFLD-NET-USER\jeniwi3722"
+#EXTVLCOPT:http-user-agent="NZKFLD-NET-USER\emyeulaptrinh"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tshift.fptplay.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 
@@ -160,6 +160,104 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest/scale-to-width-down/200?cb=20210131020959&path-prefix=vi" group-title="HTVC",HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",NHK E
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp) [Luồng 2]",NHK World Japan
+http://203.162.235.41:16902
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRXL1sv/NHK-G-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",NHK G
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Px219mS/Fuji-TV-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",Fuji TV
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)", Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)", TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",TBS TV
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVsM8xX/NHK-BS1-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FH2dCyT/NHK-BS-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",NHK BSP
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BG4MMbJ/bsfuji-BEARTV.jpg" group-title="Quốc Tế - Nhật Bản (tổng hợp)",BS Fuji
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gjQV3L1/BSNippon-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",BS Nippon TV
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JzmJck7/BS-TBS-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScQJfxY/bsasahi-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",BS Asahi
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWdyRPn/BS-Tokyo-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",BS Tokyo
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WkPytk/WOWOW-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)", WOWOW Prime
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfmP5nG/Golf-Channel-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",G-GOLF NETWORK
+http://203.162.235.41:16924
+
+
+
+
+
+#EXTINF:-1 tvg-id="cctv1" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="cctv2" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="cctv3" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/RvBLDLc/CCTV-3-BEARTV.png", CCTV3 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="cctv4" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/XYw5T45/cctv4-BEARTV.png", CCTV4 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="cctv5" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CCTV5 - Thể Thao
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CCTV5+ Thể Thao
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="cctv6" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/ScBcnDG/cctv6-BEARTV.png", CCTV6 HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="cctv7" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/FBgLD25/cctv7-BEARTV.png", CCTV7 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/QYQHt0H/cctv8-BEARTV.png", CCTV8 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="cctvjilu" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/YjTHXp1/cctv9-BEARTV.png", CCTV9 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="cctv10" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/F83Z3dL/cctv10-BEARTV.png", CCTV10 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="cctv11" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/F6MNqQn/cctv11-BEARTV.png", CCTV11 HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="cctv12" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/q5FCZCc/cctv12-BEARTV.png", CCTV12 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="cctv13" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/HtWFFfx/cctv14-BEARTV.png", CCTV14 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/s3PMJvW/cctv15-BEARTV.png", CCTV15 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/ykcwTcW/CCTV-16-BEARTV.png", CCTV16 HD
+http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/YRS2MXt/CCTV17-BEARTV.webp", CCTV17 HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/30WVvnd/CHC-BEARTV.png",CHC Phim Hành Động
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC Phim Chiếu Rạp
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/18sVZwF/B-c-Kinh-BEARTVpng.png",Bắc Kinh
+http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/gT8WrKf/hobac-BEARTV.png",Hồ Bắc
+http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/fNjFPVZ/Hunan-TV-BEARTV.png",Hồ Nam
+http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/d67LysT/Chi-t-Giang-BEARTV.png",Chiết Giang
+http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/MPQGTZn/Giang-T-BEARTV.png",Giang Tô
+http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/PYsHhX5/Giang-T-y-BEARTV.png",Giang Tây
+http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/nsYCwMY/quangdong-BEARTV.png",Quảng Đông
+http://39.134.193.101:6610/030000001000/GDWS-HD/GDWS-HD.m3u8?IASHttpSessionId=RR1710620220724054013579593
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/3dzmgK9/H-i-Nam-BEARTV.png",Hải Nam
+http://39.135.163.5:6610/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId=SLB693820220724054209591365
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/W2fxCd3/Thi-n-T-n-BEARTV.png",Thiên Tân
+http://39.134.65.162/PLTV/88888888/224/3221225665/1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Quốc Tế - Thể Thao,Euro Sport 1 HD
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 group-title="Quốc Tế - Thể Thao" tvg-logo="https://i.ibb.co/F768qJN/star-sports-select-hd-2-BEARTV.png" ,Star Sports Select 2 HD
