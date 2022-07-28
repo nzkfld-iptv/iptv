@@ -160,6 +160,10 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest/scale-to-width-down/200?cb=20210131020959&path-prefix=vi" group-title="HTVC",HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="Quốc Tế - Thể Thao" tvg-logo="https://i.ibb.co/F768qJN/star-sports-select-hd-2-BEARTV.png" ,Star Sports Select 2 HD
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="Quốc Tế - Thể Thao", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/DW_2012.svg/revision/latest?cb=20220204075549&path-prefix=vi" group-title="Quốc Tế" tvg-chno="",DW HD
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://yt3.ggpht.com/NIXyUN63VNSJNVCopAKnZsHOgCDSksQo7815Lx7Bo2WTKxYaFOz7LHHUheF6FW4OlN4-whby=s900-c-k-c0x00ffffff-no-rj" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-chno="",Arirang
@@ -184,37 +188,29 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="Quốc Tế - Hàn Quốc (tổng hợp)",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Plus(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Plus (BDIX)
+#EXTINF:-1 tvg-name="Star Plus" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Plus UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Plus UK (BDIX)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Bharat(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Bharat (BDIX)
+#EXTINF:-1 tvg-name="Star Bharat(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Bharat
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1 tvg-name="Colors(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Quốc Tế - Phim Tổng Hợp",Colors (BDIX)
+#EXTINF:-1 tvg-name="Colors(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Quốc Tế - Phim Tổng Hợp",Colors
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1 tvg-name="Colors UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Quốc Tế - Phim Tổng Hợp",Colors UK (BDIX)
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
-#EXTINF:-1 tvg-name="Zee TV(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee TV (BDIX)
+#EXTINF:-1 tvg-name="Zee TV(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee TV
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF:-1 tvg-name="Zee TV UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee TV UK (BDIX)
-http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF:-1 tvg-name="SAHARA ONE (BDIX)" tvg-logo="" group-title="Quốc Tế",SAHARA ONE (BDIX)
+#EXTINF:-1 tvg-name="SAHARA ONE (BDIX)" tvg-logo="" group-title="Quốc Tế",Sahara One
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee Cinema HD (BDIX)
+#EXTINF:-1 tvg-name="Zee Cinema HD(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" group-title="Quốc Tế - Phim Tổng Hợp",Zee Cinema HD 
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Action HD(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Action HD (BDIX)
+#EXTINF:-1 tvg-name="Zee Action HD(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Action HD 
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Classic(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Classic (BDIX)
+#EXTINF:-1 tvg-name="Zee Classic(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Classic 
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Anmol Cinema(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Anmol Cinema(BDIX)
+#EXTINF:-1 tvg-name="Zee Anmol Cinema(BDIX)" tvg-logo="" group-title="Quốc Tế - Phim Tổng Hợp",Zee Anmol Cinema
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Gold(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold (BDIX)
+#EXTINF:-1 tvg-name="Star Gold(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold 
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Gold UK(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold UK (BDIX)
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Gold 2(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold 2 (BDIX)
+#EXTINF:-1 tvg-name="Star Gold 2(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png" group-title="Quốc Tế - Phim Tổng Hợp",Star Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Max 2(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png" group-title="Quốc Tế - Phim Tổng Hợp",Sony Max 2 (BDIX)
+#EXTINF:-1 tvg-name="Sony Max 2(BDIX)" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png" group-title="Quốc Tế - Sony",Sony Max 2 
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Quốc Tế - Âm Nhạc", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
