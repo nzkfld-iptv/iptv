@@ -162,6 +162,8 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế - Thể Thao" tvg-logo="https://i.ibb.co/F768qJN/star-sports-select-hd-2-BEARTV.png" ,Star Sports Select 2 HD
 https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Quốc Tế - Thể Thao", Fight Sports 
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="Quốc Tế - Thể Thao", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/DW_2012.svg/revision/latest?cb=20220204075549&path-prefix=vi" group-title="Quốc Tế" tvg-chno="",DW HD
@@ -238,7 +240,7 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MxGKSW.png" group-title="Quốc Tế - Phim Tổng Hợp", Star Plus HD.
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Quốc Tế - Phim Tổng Hợp", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Quốc Tế - Sony", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế - Dubai Sports",DUBAI SPORTS 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
