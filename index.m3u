@@ -153,6 +153,8 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest/scale-to-width-down/200?cb=20210131020959&path-prefix=vi" group-title="HTVC",HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="Quốc Tế - Âm Nhạc" tvg-logo="https://i.ibb.co/qy5hVQ2/SBS-MTV-BEARTV.png", SBS MTV
+http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NTkwNzAxODksInBhdGgiOiIvc2JzbXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiIyNDYyZTY4Ni1mOTI3LTQ4MGMtYjRmZC0wZGI2NmViZjI5YTEiLCJpYXQiOjE2NTkwNzAwMDl9.IEeGkKeW0Og9Foxl0fjWEL_WZoHfGKiJ9E0nhrPwnrU
 #EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/F3z1Nf0/sbssports-BEARTV.png", SBS Sports
 http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
 #EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/SQTKn2X/tvnsports-BEARTV.png", tVN SPORTS
