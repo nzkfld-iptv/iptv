@@ -153,7 +153,16 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest/scale-to-width-down/200?cb=20210131020959&path-prefix=vi" group-title="HTVC",HTVC Plus 
 https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
-
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/F3z1Nf0/sbssports-BEARTV.png", SBS Sports
+http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/SQTKn2X/tvnsports-BEARTV.png", tVN SPORTS
+http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live55
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/HTH90wP/KBS-N-Sports-BEARTV.png", KBSN SPORTS
+http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live52
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/GJfhCXJ/JTBCGolf-Sports-BEARTV.png", JTBC Golf & Sports
+http://140.238.6.140:8881/stream/channel/bc035199f244ef5eabb539c178fabdfb
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/rmRSzGc/IB-Sports-BEARTV.png", IB SPORTS
+http://140.238.6.140:8881/stream/channel/0b2bbeebae682ab19623247648425c1b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",NHK E
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp) [Luồng 2]",NHK World Japan
@@ -188,11 +197,6 @@ http://203.162.235.41:16915
 http://203.162.235.41:16916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfmP5nG/Golf-Channel-BEARTV.png" group-title="Quốc Tế - Nhật Bản (tổng hợp)",G-GOLF NETWORK
 http://203.162.235.41:16924
-
-
-
-
-
 #EXTINF:-1 tvg-id="cctv1" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="cctv2" group-title="Quốc Tế - Trung Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD
