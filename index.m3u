@@ -600,6 +600,10 @@ http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="spo2hd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRfV-N0YyLbHgrVZmLtcHoIRgABTgsYc5PKg&usqp=CAU ",SPOTV 2
 http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel1.png" ,SPOTV·ON
+http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
+#EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel2.png" ,SPOTV·ON2
+http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
 #EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/SQzrrkX/KBSN-Drama-BEARTV.png", KBS Drama
 http://140.238.6.140:8881/stream/channel/800be1ea4133bb52bd4194348f90492c
 #EXTINF:-1 group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://i.ibb.co/vmKWdmG/KBSN-Joy-BEARTV.png", KBS Joy
