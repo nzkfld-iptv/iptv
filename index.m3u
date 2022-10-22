@@ -1,6 +1,6 @@
 #EXTM3U tvg-country="VI" tvg-language="Tiếng Việt"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0.22000.829 ; Win64 ; x64)"
-#EXTVLCOPT:http-user-agent="nzkfld-net@emyeulaptrinh"
+#EXTVLCOPT:http-user-agent="2022Windows11@FLD.LOCAL"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tshift.fptplay.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 
@@ -15,7 +15,7 @@ https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest?cb=20211014034536&path-prefix=vi" group-title="VTV",VTV5 HD 
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV6 HD
+#EXTINF:-1 tvg-id="vtvct" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV Cần Thơ (Thử nghiệm)
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/VTV7_HD-0.png/revision/latest?cb=20200401224019&path-prefix=vi",VTV7 HD 
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -33,8 +33,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest?cb=20211014034536&path-prefix=vi" group-title="VTV (Luồng 2)",VTV5 HD
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV (Luồng 2)" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV6 HD
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:-1 tvg-id="vtvct" group-title="VTV (Luồng 2)" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV Cần Thơ (Thử nghiệm)
+http://drfamaga5qliv.vcdn.cloud/vtv06@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV (Luồng 2)" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/VTV7_HD-0.png/revision/latest?cb=20200401224019&path-prefix=vi",VTV7 HD
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV (Luồng 2)" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/VTV8_HD-0.png/revision/latest?cb=20201228133900&path-prefix=vi",VTV8 HD
