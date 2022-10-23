@@ -1,6 +1,6 @@
-#EXTM3U tvg-country="VI" tvg-language="Tiếng Việt"
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0.22000.829 ; Win64 ; x64)"
-#EXTVLCOPT:http-user-agent="2022Windows11@FLD.LOCAL"
+#EXTM3U tvg-country="VI" tvg-language="vi_VN"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0.25217.1000 ; Win64 ; x64)"
+#EXTVLCOPT:http-user-agent="Administrator"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tshift.fptplay.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 
