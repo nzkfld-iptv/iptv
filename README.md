@@ -7,3 +7,4 @@
 1. Nguyễn Huy Hiếu (@kirigizakakzutovn) - Người tạo ra cốt lõi; thử nghiệm trên WebOS và iOS
 2. Trần Đình Tuyển (@cookiegmvn)        - Hỗ trợ tạo Emulator-Client; người tạo ra cốt lõi
 3. Trần Anh Tuấn   (@tat2k8)            - Thử nghiệm trên Windows 11 23H2 Insider Preview
+4. Nguyễn Dương Tuấn (@thedtvn)         - Thử nghiệm trên Windows 11 22H2 Insider Preview; lọc source bằng sức cơm
